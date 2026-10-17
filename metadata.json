@@ -1,0 +1,6 @@
+{
+  "name": "Revision Board - Cute Minimal JEE Main Planner",
+  "description": "A cute, cozy, and airy weekly revision planner and PCM practice tracker for JEE Main preparation with full 78-chapter syllabus.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
